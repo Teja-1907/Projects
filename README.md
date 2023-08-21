@@ -1,5 +1,5 @@
 # Projects
-## Heart Disease Preiction
+## Heart_Disease_Preiction
 
 
 
