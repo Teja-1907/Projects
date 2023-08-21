@@ -23,6 +23,6 @@ Unveil the magic of data-driven insights with our Heart Disease Prediction proje
 🚀 Ready to Join the Revolution?
 Become a part of the future by exploring our GitHub repository. Whether you're a machine learning enthusiast, a healthcare professional, or simply curious about the potential of AI in medicine, this project promises to intrigue and inspire. 
 
-🔗 GitHub Repository: [Link Here]
+🔗 GitHub Repository: [https://github.com/Teja-1907/Projects/blob/main/Heart%20Disease%20prediction.ipynb]
 
 Embark on a journey where technology meets compassion, and help us shape a healthier tomorrow. Together, let's pave the way for predictive medicine and redefine the limits of possibility!
