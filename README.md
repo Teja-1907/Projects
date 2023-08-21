@@ -1,5 +1,5 @@
 <p align="center">
-# Projects
+ <b>Projects</b>
 </p>
 # Heart 
 🌟 Exciting New Project Alert: Heart Disease Prediction using Advanced Machine Learning Techniques! 🌟
