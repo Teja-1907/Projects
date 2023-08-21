@@ -1,6 +1,6 @@
-<p align="center">
+<h1><p align="center">
  <b>Projects</b>
-</p>
+</p></h1>
 # Heart 
 🌟 Exciting New Project Alert: Heart Disease Prediction using Advanced Machine Learning Techniques! 🌟
 
