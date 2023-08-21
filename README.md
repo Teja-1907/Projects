@@ -1,4 +1,6 @@
-                                                    # Projects
+<p align="center">
+# Projects
+</p>
 # Heart 
 🌟 Exciting New Project Alert: Heart Disease Prediction using Advanced Machine Learning Techniques! 🌟
 
