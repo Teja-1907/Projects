@@ -55,6 +55,6 @@ In a world where financial markets are as dynamic as ever, staying ahead of the 
 
 Join us on this exciting journey of data-driven forecasting, and let's unlock the potential of Machine Learning to make informed decisions in the ever-changing world of commodity markets. Your financial future awaits, and it starts right here with the Commodity Price Predictor.
 
-**Get Started**: [Link to the Repository]
+**Get Started**: [https://github.com/Teja-1907/Projects/blob/main/Commodity%20-Price%20prediction.ipynb)]
 
 *Disclaimer: This project is for educational and informational purposes only. It should not be used as the sole basis for financial decisions, and past performance is not indicative of future results.*
